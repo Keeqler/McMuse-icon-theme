@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=McMuse
+Name=McMuse (without Finder icon)
 Comment=MacOSX style icon theme for linux.
 Inherits=Numix-Circle-Light,Adwaita,hicolor
 Example=folder
